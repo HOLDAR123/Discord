@@ -163,6 +163,7 @@ div>div >button{
     margin: 24px 24px 0px 0px;
     margin-right: 20%;   
 }
+
 .container-button-discord:hover{
     
     
@@ -173,7 +174,9 @@ div>div >button{
     color: black;
     position: relative;
     
-    
+}
+ul{
+    margin-top: 5%;
 }
 li{
     list-style-type: none;
@@ -302,14 +305,82 @@ div>button.container-button1{
     margin-top: 5%;   
 }
 footer{
-    height: 511px;
+    height: 550px;
     width: 100%;
     background-color: #23272A;
-
+    color: #5865f2;
+    
+    
+}
+.Footers{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;   
+    padding: 80px;
+    margin-left: 13%;
+    max-width: 1300px;
+    border-bottom:1px solid #5865f2;
+    
+    
 }
 body {
     margin: 0px;
 }
+h3{
+    font-size: 32px;
+   margin-top: 0%;
+}
+.select{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: -3%;
+}
+select{
+    background-color: #23272A;
+    border: transparent ;
+    color: white;
+    
+}
+.buttomss{
+    margin-left: 80%;
+    margin-top: 0%;
+    position: absolute;
+    background-color: #5865f2;
+    color: white;;
+}
+.all{
+    padding: 30px;
+}
+
+.discordss{
+    margin-left: 15%;
+    position: absolute;
+}
+.Russian{
+    color: white;
+    margin: 8px;
+    
+}
+.icons-footer{
+    line-height: 80px;
+    display: flex;
+    justify-content: space-between;
+    max-width:170px;
+}
+.tec{
+    color: white;;
+}
+.button-discord1{
+    position: relative;
+color: rgb(255, 255, 255);
+font-size: 13px;
+}
+.button-discord1:hover{
+    font-size: 13px;
+    color: #8865f2;
+    
+}
+
 a{
     text-decoration: none;
     font-size: 18px;
@@ -321,7 +392,4 @@ a{
 p{
     font-family: sans-serif;
     font-size: 16px;
-    
-    
-
 }
