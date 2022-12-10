@@ -111,7 +111,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding: 120px   ;
-    margin: 90px;
+    margin: 90px 250px;
     margin-top: -2%;
     
 }
@@ -125,7 +125,7 @@ line-height: 60px;
  height:298px; 
  float: right;
  
- margin: -13% 90px;
+ margin: -12% 90px;
  
  
 }
@@ -174,8 +174,8 @@ button.container-button1:hover{
 .text-button{
     color: white;
     font-family: sans-serif;
-    margin-left: 20%;
-    margin-top: 40px;
+    margin-left: 17%;
+    margin-top: 45px;
     position: absolute;
     font-size: 16px;
 }

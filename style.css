@@ -460,7 +460,7 @@ h1,h2,h3,h4,h5{
   .abo:hover{
     text-decoration: underline;
   }
-  .jon:hover{
+  .job:hover{
     text-decoration: underline;
   }
   .brand:hover{
@@ -474,9 +474,7 @@ h1,h2,h3,h4,h5{
     text-decoration: underline;
   }
 
-  .Prod:hover{
-    text-decoration: underline;
-  }
+ 
   .down:hover{
     text-decoration: underline;
   }
