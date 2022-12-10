@@ -393,3 +393,81 @@ p{
     font-family: sans-serif;
     font-size: 16px;
 }
+.tec:hover{
+  cursor: pointer;
+}
+.t:hover{
+  text-decoration: underline;
+}
+.p:hover{
+    text-decoration: underline;
+  }
+  .c:hover{
+    text-decoration: underline;
+  }
+  .g:hover{
+    text-decoration: underline;
+  }
+  .A:hover{
+    text-decoration: underline;
+  }
+  .L:hover{
+    text-decoration: underline;
+  }
+  .M:hover{
+    text-decoration: underline;
+}
+
+
+  .s:hover{
+    text-decoration: underline;
+  }
+  .d:hover{
+    text-decoration: underline;
+  }
+  .f:hover{
+    text-decoration: underline;
+  }
+  .b:hover{
+    text-decoration: underline;
+  }
+  .sa:hover{
+    text-decoration: underline;
+  }
+  .su:hover{
+    text-decoration: underline;
+  }
+  .col:hover{
+    text-decoration: underline;
+  }
+
+  .abo:hover{
+    text-decoration: underline;
+  }
+  .jon:hover{
+    text-decoration: underline;
+  }
+  .brand:hover{
+    text-decoration: underline;
+  }
+  .new:hover{
+    text-decoration: underline;
+  }
+
+  .status:hover{
+    text-decoration: underline;
+  }
+
+  .Prod:hover{
+    text-decoration: underline;
+  }
+  .down:hover{
+    text-decoration: underline;
+  }
+  .Nitro:hover{
+    text-decoration: underline;
+  }
+
+  .img-textp2{
+    font-size: 20px;
+  }
