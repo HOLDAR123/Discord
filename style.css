@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=PT+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@800&display=swap');
 .discord-logo{  
     width: 124px;
     height: 23.25px;
@@ -187,7 +188,7 @@ li{
 
 }
 li:before{
-    content:url(oojs_UI_icon_download.svg);
+    content:url(img/oojs_UI_icon_download.svg);
    
     
 }
@@ -390,8 +391,11 @@ a{
 
 
 p{
-    font-family: sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     font-size: 16px;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Noto Sans', sans-serif;
 }
 .tec:hover{
   cursor: pointer;
