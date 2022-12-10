@@ -42,6 +42,7 @@ button{
     position: relative;
     color: black;
     font-size: 13px;
+    transition: 0.2s ease-in-out;
    
 }
 button:hover {
@@ -58,6 +59,7 @@ button:hover {
     font-size: 13px;
     color: #8865f2;
     z-index: 3;
+    transition: 0.2s ease-in-out;
 }
 
 .links{
@@ -187,11 +189,15 @@ li{
 
 
 }
-li:before{
+.Downloader:before{
     content:url(img/oojs_UI_icon_download.svg);
    
     
 }
+.Download:before{
+    content:url(img/sss.png);  
+}
+
 div>div>div>button{
     height: 56px;
     width: 293px;
@@ -295,7 +301,7 @@ div>div>div>button{
 .img-under{
     position: absolute;
 }
-div>button.container-button1{
+button.container-button1{
     height: 56px;
     width: 293px;
     border-radius: 30px;
@@ -304,6 +310,11 @@ div>button.container-button1{
     cursor: pointer;
     margin: 24px 24px 0px 0px;
     margin-top: 5%;   
+    transition: 0.2s ease-in-out;
+}
+button.container-button1:hover{
+    transition: 0.2s ease-in-out;
+    background-color: #7983f5;
 }
 footer{
     height: 550px;
@@ -375,6 +386,7 @@ select{
     position: relative;
 color: rgb(255, 255, 255);
 font-size: 13px;
+
 }
 .button-discord1:hover{
     font-size: 13px;
